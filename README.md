@@ -5,6 +5,7 @@ Semester project startup and theory
 * Groups and start requirements (using UML)
 * Creations and theory about groups
 * Belbin test
+* Link til Grooups Google doc: https://docs.google.com/document/d/10vkQKNAv5antZPFeVA7wXteyfE02mR7vF0Xvm92duVA/edit?usp=sharing
 
 ##Tuesday
 * Presentation of project by Johannes Fog. Alpha Solution will also be there.
